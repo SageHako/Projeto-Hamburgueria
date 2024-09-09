@@ -1,6 +1,6 @@
 ![Logo do Projeto](https://i.imgur.com/Ar6lKPq.png)
 
-![img1](assets/demo.png)
+![img1](assets/01.png)
 
 #  📱 Projeto - Hamburgueria
 Um app web de hamburgueria, com funções de carrinho e pedido de compra!
