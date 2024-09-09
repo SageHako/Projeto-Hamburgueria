@@ -1,7 +1,8 @@
-<img src="./assets/01.png" alt="Logo do Projeto" width="200"/>
-<img src="./assets/02.png" alt="Logo do Projeto" width="200"/>
-<img src="./assets/01.png" alt="Logo do Projeto" width="200"/>
-
+<div>
+  <img src="./assets/01.png" alt="Logo do Projeto" width="400"/>
+  <img src="./assets/02.png" alt="Logo do Projeto" width="400"/>
+  <img src="./assets/01.png" alt="Logo do Projeto" width="400"/>
+</div>
 
 #  📱 Projeto - Hamburgueria
 Um app web de hamburgueria, com funções de carrinho e pedido de compra!
